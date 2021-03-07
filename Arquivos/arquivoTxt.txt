@@ -1,0 +1,3 @@
+Aqui tem um texto de exemplo usado na aula de Arquivos
+Teste linha 2
+Teste linha 3
